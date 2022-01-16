@@ -1,0 +1,23 @@
+{
+  "name": "wang-design-rn",
+  "version": "1.0.0",
+  "description": "学习测试",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhishuai/wang-design-rn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhishuai/wang-design-rn/issues"
+  },
+  "homepage": "https://github.com/zhishuai/wang-design-rn#readme",
+  "dependencies": {
+    "prop-types": "^15.8.0"
+  }
+}
